@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://thomasrosen.github.io/csb-p1spx/static/css/main.bec094ea.chunk.css",
+    "main.js": "https://thomasrosen.github.io/csb-p1spx/static/js/main.8ffd23ec.chunk.js",
+    "main.js.map": "https://thomasrosen.github.io/csb-p1spx/static/js/main.8ffd23ec.chunk.js.map",
+    "runtime~main.js": "https://thomasrosen.github.io/csb-p1spx/static/js/runtime~main.09c4bb5a.js",
+    "runtime~main.js.map": "https://thomasrosen.github.io/csb-p1spx/static/js/runtime~main.09c4bb5a.js.map",
+    "static/js/2.d164d6cc.chunk.js": "https://thomasrosen.github.io/csb-p1spx/static/js/2.d164d6cc.chunk.js",
+    "static/js/2.d164d6cc.chunk.js.map": "https://thomasrosen.github.io/csb-p1spx/static/js/2.d164d6cc.chunk.js.map",
+    "index.html": "https://thomasrosen.github.io/csb-p1spx/index.html",
+    "precache-manifest.e592383d7b2e4c93452261ea1fd17781.js": "https://thomasrosen.github.io/csb-p1spx/precache-manifest.e592383d7b2e4c93452261ea1fd17781.js",
+    "service-worker.js": "https://thomasrosen.github.io/csb-p1spx/service-worker.js",
+    "static/css/main.bec094ea.chunk.css.map": "https://thomasrosen.github.io/csb-p1spx/static/css/main.bec094ea.chunk.css.map"
+  }
+}
